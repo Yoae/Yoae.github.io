@@ -1,19 +1,20 @@
 
 ---
 layout: home
-title: Home
 ---
 
-# ¡Hola! Bienvenido a mi portfolio
+# Welcome to My Portfolio!
 
-Soy una persona interesada en la programación y el testing de software.
+Hi! I'm a developer interested in software
+development and software testing.
 
-En este espacio compartiré mis proyectos, conocimientos y aprendizajes.
+This portfolio showcases my projects,
+technical skills and learning journey.
 
-## Mis proyectos
+## Featured Projects
 
-### Proyecto 01
+### Project 01 - Software Testing
 
-Test automation   
+This project focuses on    
 
 [Ver proyecto en GitHub](https://github.com/Yoae/demonopcommerceFP)
