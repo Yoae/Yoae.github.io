@@ -1,7 +1,7 @@
 
 ---
 layout: home
-title: Inicio
+title: Home
 ---
 
 # ¡Hola! Bienvenido a mi portfolio
@@ -12,8 +12,8 @@ En este espacio compartiré mis proyectos, conocimientos y aprendizajes.
 
 ## Mis proyectos
 
-### Proyecto de Testing
+### Proyecto 01
 
-Descripción de mi primer proyecto de testing.
+Test automation   
 
 [Ver proyecto en GitHub](https://github.com/Yoae/demonopcommerceFP)
