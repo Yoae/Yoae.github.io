@@ -15,6 +15,6 @@ technical skills and learning journey.
 
 ### Project 01 - Software Testing
 
-This project focuses on    
+This project is a demonstration of automated web testing using Selenium, Cucumber, and Java. It showcases the implementation of automated test scenarios following the Behavior-Driven Development (BDD) approach.   
 
 [Ver proyecto en GitHub](https://github.com/Yoae/demonopcommerceFP)
